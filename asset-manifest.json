@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/h2ash/react_slot-machine/static/css/main.d1b05096.chunk.css",
+    "main.js": "/h2ash/react_slot-machine/static/js/main.bd8d9cdb.chunk.js",
+    "main.js.map": "/h2ash/react_slot-machine/static/js/main.bd8d9cdb.chunk.js.map",
+    "runtime-main.js": "/h2ash/react_slot-machine/static/js/runtime-main.418f7cdb.js",
+    "runtime-main.js.map": "/h2ash/react_slot-machine/static/js/runtime-main.418f7cdb.js.map",
+    "static/js/2.881d1e0a.chunk.js": "/h2ash/react_slot-machine/static/js/2.881d1e0a.chunk.js",
+    "static/js/2.881d1e0a.chunk.js.map": "/h2ash/react_slot-machine/static/js/2.881d1e0a.chunk.js.map",
+    "index.html": "/h2ash/react_slot-machine/index.html",
+    "precache-manifest.848019c6ca2e96c6dfe09442384d2ed9.js": "/h2ash/react_slot-machine/precache-manifest.848019c6ca2e96c6dfe09442384d2ed9.js",
+    "service-worker.js": "/h2ash/react_slot-machine/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/h2ash/react_slot-machine/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.881d1e0a.chunk.js.LICENSE": "/h2ash/react_slot-machine/static/js/2.881d1e0a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/h2ash/react_slot-machine/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418f7cdb.js",
+    "static/js/2.881d1e0a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bd8d9cdb.chunk.js"
+  ]
+}
